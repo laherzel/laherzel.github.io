@@ -1,6 +1,6 @@
 title: Lara Fountaine
-description: > # this means to ignore newlines until "baseurl:"
-This is a personal website
+description: >
+   This is a personal website
 permalink: '/:title/'
 
 # Author settings
