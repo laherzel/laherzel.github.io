@@ -5,7 +5,7 @@ order: 1
 ---
 {% include author-box.html %}
 
-testing this out!
+My name is Lara and I'm a community engagement librarian and a mom! Just here trying to find that work life balance.
 
 ## Current Interests and Projects:
 
